@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abangherbal.netlify.app/sitemap.xml
